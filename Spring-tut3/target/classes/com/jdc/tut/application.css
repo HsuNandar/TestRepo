@@ -1,0 +1,7 @@
+.mainframe{
+	-fx-pref-width: 1080px;
+	-fx-pref-height: 700px;
+}
+.header-label{
+    -fx-background-color: lightblue;
+}
